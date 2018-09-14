@@ -1,0 +1,54 @@
+.box{
+	background-color: #f5f5f5;
+}
+.box-text{
+	height: auto;
+	
+	
+}
+
+.box-text__wrap p{
+	padding: 15px 0;
+
+
+}
+.box-text__wrap img{
+	color:red;
+	
+}
+.box-text__wrap a{
+	color:red;
+	font-size: 15pt;
+	padding: 20px 0;
+}
+
+.list-box{
+	width: 100%;
+	height:auto;
+	color:#fff;
+}
+.box-item{
+	margin: 0 auto;
+ 	display: flex;
+ 	flex-wrap: wrap;
+ 	flex-direction: row;
+ 	height:200px;
+}
+.box-icon{
+	background-color: #fff;
+ 	margin: 10px;
+	color: white;
+	height: 190px;
+	width: 313px;
+	text-align: center;
+	line-height: 50px;
+}
+.box-icon img{
+	margin-top: 40px;
+	width: 170px; 
+	height: 85px;
+}
+.box-icon p{
+	color:black;
+	font-size: 20pt;
+}

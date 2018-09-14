@@ -1,0 +1,38 @@
+.footer{
+	
+	height: auto;
+	
+}
+.footer-wrap{
+	display: flex;
+	justify-content: space-between;
+}
+.fSection{
+	background-color: red
+}
+.logo{
+	line-height: 0;
+}
+.main-menu{
+	line-height: 90px;
+}
+.main-menu ul {
+	display: flex;
+	flex-wrap: nowrap;
+}
+.main-menu nav{
+	
+}
+.main-menu li{
+	padding: 0 20px;
+}
+.main-menu a{
+	color:#fff;
+}
+.fInner{
+	background-color: black;
+	color:#fff;
+	text-align: center;
+	margin-top: 5px;
+	padding: 10px;
+}

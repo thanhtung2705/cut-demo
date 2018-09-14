@@ -1,0 +1,35 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body, html{
+    
+    font-family: myWebFont;
+ 
+}
+.body__wrap{
+    max-width: 1920px;
+    margin: 0 auto;
+}
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+
+li{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    cursor: pointer;
+    display: block;
+}
+
+p::first-letter{
+    text-transform: uppercase;
+}
+
