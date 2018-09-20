@@ -7,16 +7,16 @@
 	
 }
 
-.box-text__wrap p{
+.box-text__content p{
 	padding: 15px 0;
 
 
 }
-.box-text__wrap img{
+.box-text__content img{
 	color:red;
 	
 }
-.box-text__wrap a{
+.box-text__content a{
 	color:red;
 	font-size: 15pt;
 	padding: 20px 0;
@@ -27,14 +27,14 @@
 	height:auto;
 	color:#fff;
 }
-.box-item{
+.list-box__item{
 	margin: 0 auto;
  	display: flex;
  	flex-wrap: wrap;
  	flex-direction: row;
  	height:200px;
 }
-.box-icon{
+.box__icon{
 	background-color: #fff;
  	margin: 10px;
 	color: white;
@@ -43,12 +43,12 @@
 	text-align: center;
 	line-height: 50px;
 }
-.box-icon img{
+.box__icon img{
 	margin-top: 40px;
 	width: 170px; 
 	height: 85px;
 }
-.box-icon p{
+.box__icon p{
 	color:black;
 	font-size: 20pt;
 }
